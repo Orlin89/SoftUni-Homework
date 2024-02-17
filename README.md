@@ -1,2 +1,2 @@
-# SoftUni-Homework-Software Technologies
+# SoftUni-Homework
 Courses homework
